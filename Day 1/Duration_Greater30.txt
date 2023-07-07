@@ -1,0 +1,9 @@
+ID,Name,Duration
+1000,asp.net,60
+200,c progamming,60
+600,c#,80
+800,java,60
+300,oop,80
+900,oracle,50
+500,sql server,60
+400,unix,50
