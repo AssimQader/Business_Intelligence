@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Multidimensional_Project1", "Multidimensional_Project1\Multidimensional_Project1.dwproj", "{023D0656-C5CC-4D81-8F57-702B4FFD952B}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Multidimensional_Project2", "..\Multidimensional_Project2\Multidimensional_Project2.dwproj", "{0FBEF394-7AD0-4278-A570-BA8B53614CEE}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Multidimensional_Project3", "..\Multidimensional_Project3\Multidimensional_Project3.dwproj", "{0A53CF32-1312-4881-9985-043A642829C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023D0656-C5CC-4D81-8F57-702B4FFD952B}.Development|Default.ActiveCfg = Development
+		{023D0656-C5CC-4D81-8F57-702B4FFD952B}.Development|Default.Build.0 = Development
+		{023D0656-C5CC-4D81-8F57-702B4FFD952B}.Development|Default.Deploy.0 = Development
+		{0FBEF394-7AD0-4278-A570-BA8B53614CEE}.Development|Default.ActiveCfg = Development
+		{0FBEF394-7AD0-4278-A570-BA8B53614CEE}.Development|Default.Build.0 = Development
+		{0FBEF394-7AD0-4278-A570-BA8B53614CEE}.Development|Default.Deploy.0 = Development
+		{0A53CF32-1312-4881-9985-043A642829C1}.Development|Default.ActiveCfg = Development
+		{0A53CF32-1312-4881-9985-043A642829C1}.Development|Default.Build.0 = Development
+		{0A53CF32-1312-4881-9985-043A642829C1}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3DF0F3-A0C6-45FD-930E-D8E65833E256}
+	EndGlobalSection
+EndGlobal
